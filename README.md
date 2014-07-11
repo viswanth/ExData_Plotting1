@@ -1,3 +1,5 @@
+Please note that my script assumes that the data is present in the working directory and also assumes that the system has enough memory to handle the large data set. Thank you.
+
 ## Introduction
 
 This assignment uses data from
